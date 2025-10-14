@@ -46,3 +46,5 @@ This project is licensed under the MIT License.
 
 # Contact
 For questions or contributions, please contact:
+- Name: [Brenda Chebet]
+- Email: [koskeybrenda1@gmail.com]
