@@ -5,6 +5,8 @@ This project analyzes Kenya's Olympic performance, focusing on medal achievement
 
 Read more https://brendachebyte.hashnode.dev/kenya-olympic-analysis-tracing-kenyas-athletic-excellence-through-data
 
+Access the detailed analysis report here https://kenya-olympic-tapestry.lovable.app/analysis
+
 # Dataset
 The core dataset contains Kenya's Olympic medal counts from 1956 to 2016, totaling 103 medals. It includes:
 - Medal types: 30 Gold, 38 Silver, 35 Bronze.
