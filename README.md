@@ -3,7 +3,7 @@ Kenyan Olympic Performance Analysis
 # Project Overview
 This project analyzes Kenya's Olympic performance, focusing on medal achievements from 1956 to 2016, with an extended view to 2024 where data permits. The dataset, compiled from historical records, includes approximately 103 medals (30 Gold, 38 Silver, 35 Bronze) earned primarily in athletics and boxing, with an estimated 49 medals from 2000 to 2016. The analysis explores overall medal trends, gender breakdowns, regional comparisons with African nations (South Africa, Uganda, Nigeria, Ethiopia), and global context, highlighting the impact of the 1976 and 1980 boycotts. Visualizations were generated using Python (Matplotlib) and integrated into Canva for presentation.
 
-Read more https://brendachebyte.hashnode.dev/kenya-olympic-analysis-tracing-kenyas-athletic-excellence-through-data
+Read more [https://brendachebyte.hashnode.dev/kenya-olympic-analysis-tracing-kenyas-athletic-excellence-through-data](https://brendachebyte.hashnode.dev/kenya-olympic-analysis-a-data-driven-journey-1?showSharer=true)
 
 Access the detailed analysis report here https://kenya-olympic-tapestry.lovable.app/analysis
 
